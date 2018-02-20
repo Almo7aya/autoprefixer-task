@@ -1,0 +1,6 @@
+
+app/css/src/temp
+*.mp4
+node_modules
+.vscode
+.sass-cache
